@@ -15,7 +15,7 @@ Por lo que las principales tecnologías que manejo son:
 
 <br/>
 
-<h3 align="left"> 📌 My proyectos:</h3>
+<h3 align="left"> 📌 Mis proyectos:</h3>
 <p>
   <h4>Proyecto individual Dogs en Herny's Bootcamp  (Próximamente se implementará el deployed)</h4>
  <h4>Proyecto final en Herny's Bootcamp </h4>
