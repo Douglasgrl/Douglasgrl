@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, mi nombre es Douglas Rondon</h1>
 
 <h4 align="center">Soy un Desarrolador Front-End</h4>
+<p align="center">Apasionado por crear experiencias de usuario excepcionales con tecnologías como React, Next.js y Tailwind CSS. Siempre buscando innovar y mejorar la web.</p>
+
 
 ## ¿Qué tecnologías uso?
 <p align="center">
