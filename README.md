@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es Douglas Rondon</h1>
 
-<h3 align="center">Soy Desarrolador Front-End</h3>
+<h3 align="center">Soy un Desarrolador Front-End</h3>
 
 ## ¿Qué tecnologías uso?
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
