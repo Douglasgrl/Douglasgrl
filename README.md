@@ -17,3 +17,7 @@ Por lo que las principales tecnologías que manejo son:
 -  [Linkedin](https://www.linkedin.com/in/douglasgrl27)
 
 -  Correo: Douglasgrl27@gmail.com
+
+- Actualmente estoy trabajando en <a href="https://maylandlabs.com/" target="_blank">MaylandLabs</a>
+
+
