@@ -2,7 +2,7 @@
 
 <h3 align="center">Soy un desarrollador Fronted</h3>
 
-## Tecnologías
+Tecnologías
 <p align="center">
   FrontEnd: React | Redux | React | Tailwind | Javascript | Typescript | CSS | HTML  <br>
 </p>
