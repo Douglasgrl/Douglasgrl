@@ -2,7 +2,7 @@
 
 <h3 align="center">Soy un Desarrolador Front-End</h3>
 
-## ¿Qué tecnologías uso?
+## <h3 align="center">¿Qué tecnologías uso?</h3>
 <p align="center">
   FrontEnd: React | Redux | Tailwind | CSS | HTML | TypeScript  <br><br><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
