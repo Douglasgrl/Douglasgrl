@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, mi nombre es Douglas Rondon</h1>
 
-<h3 align="center">Soy un Desarrolador Front-End</h3>
+<h4 align="center">Soy un Desarrolador Front-End</h4>
 
-## <h3 align="center">¿Qué tecnologías uso?</h3>
+## <h2 align="center">¿Qué tecnologías uso?</h2>
 <p align="center">
   FrontEnd: React | Redux | Tailwind | CSS | HTML | TypeScript  <br><br><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
