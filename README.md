@@ -4,7 +4,7 @@
 
 ## ¿Qué tecnologías uso?
 <p align="center">
-  FrontEnd: React | Redux | Tailwind | CSS | HTML | TypeScript  <br><br><br>
+  FrontEnd: React | Redux | Tailwind | CSS | HTML | TypeScript | Zustand  <br><br><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
